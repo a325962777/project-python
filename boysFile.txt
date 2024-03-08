@@ -1,0 +1,2 @@
+elchanan,levi, 21, 175,l,9,happy,tifrach,600000,
+mehir,choen,22,180,s,10,happy,beyt-shmaya,200000

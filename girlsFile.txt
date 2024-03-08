@@ -1,0 +1,2 @@
+sari,frid,20,165,s,7,happy, mehir,200000,
+rut,glick,19,170,l,9,relax, foyershteyn,600000,
